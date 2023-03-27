@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **solomon2668/solomon2668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Patrick Solomon
+## Contact: Solomon2668@gmail.com
+## Tahlequah,OK
+
+
+## I'm currently working on completing the Tech Elevator java bootcamp
+
